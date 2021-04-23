@@ -8,9 +8,12 @@ Got questions about the API? Have any ideas or suggestions? Use the **Discussion
 Found something unexpected? Open an issue and I'll try to solve it as soon as possible.  
 Note that issues should only be used for bugs or other problems within the API, general-purpose questions should be posted in Discussions.
 
+# Changelog
+We're always improving! Check out the changelog: [CHANGELOG.md](CHANGELOG.md)
+
 # Roadmap
 ### Endpoints
-- [ ] Clans
+- [x] Clans
 - [ ] Ranked leaderboard
 - [ ] Setup rotation
 - [ ] Battlepass
